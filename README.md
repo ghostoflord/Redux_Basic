@@ -1,6 +1,3 @@
-### React Vite Starter - Typescript (Hỏi Dân IT)
-
-Template này được sử dụng cho series Redux Ultimate của tác giả Hỏi Dân IT (Eric)
 
 Các bước cần làm:
 
